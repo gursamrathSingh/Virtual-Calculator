@@ -1,5 +1,5 @@
 # Virtual-Calculator
-An OpenCV Project
+
 
 The Virtual Calculator is a project created using the powerful computer vision library OpenCV in the Python programming language. This project reimagines the traditional handheld calculator by harnessing the capabilities of computer vision and image processing to provide a modern and interactive calculator experience.
 
